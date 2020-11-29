@@ -54,7 +54,7 @@ class SearchAdapter(
                     .load("http://openweathermap.org/img/wn/${element.weather[0].icon}@4x.png")
                     .placeholder(R.drawable.ic_weather_placeholder)
                     .error(R.drawable.ic_weather_placeholder)
-                    .centerCrop()
+                    .circleCrop()
                     .into(ivWeather)
         }
     }
