@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_search">Buscar</string>
+    <string name="title_favorites">Favoritos</string>
+    <string name="title_settings">Configurações</string>
+    <string name="temperature_metric">Medida temperatura</string>
+    <string name="config_save">Salvar</string>
+    <string name="language">Idioma</string>
+    <string name="english_language">Inglês</string>
+    <string name="portuguese_language">Português</string>
+    <string name="setting_save">Configurações salvas</string>
+    <string name="cityName">Cidade</string>
+    <string name="connected">Você conseguiu se conectar</string>
+    <string name="disconnected">Você está desconectado</string>
+    <string name="city_favorite">Cidade favoritada</string>
+    <string name="city_favorite_failure">Não foi possível salvar a cidade</string>
+</resources>

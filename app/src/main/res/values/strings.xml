@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Weather Forecast City</string>
+    <string name="celsius_temperature" translatable="false">°C</string>
+    <string name="fahrenheit_temperature" translatable="false">°F</string>
+    <string name="recifeCityName" translatable="false">Recife</string>
+    <string name="recifeCityNumber" translatable="false">123</string>
+    <string name="glide_weather" translatable="false">GlideWeather</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_settings">Settings</string>
+    <string name="temperature_metric">Temperature Metric</string>
+    <string name="config_save">Save</string>
+    <string name="language">Language</string>
+    <string name="english_language">English</string>
+    <string name="portuguese_language">Portuguese</string>
+    <string name="setting_save">Settings saved</string>
+    <string name="cityName">Type a city</string>
+    <string name="connected">You are online</string>
+    <string name="disconnected">You are offline</string>
+    <string name="city_favorite">City favorited</string>
+    <string name="city_favorite_failure">Could not save the city</string>
+</resources>
