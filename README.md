@@ -1,8 +1,8 @@
 ## Weather Application 🌞 🌤 ⛈
-This is the repository for Weather Application for DevApps android course.
+This repository is a Weather application for DevApps android course.
 
 ## Goals
-- Use can search the weather in your city.
+- User can search the weather in your city.
 - User can add your city in favorites.
 - User can change the settings based on temperature metrics and language.
 
